@@ -54,7 +54,7 @@ This will:
 - Classify gaze direction (camera vs. not)
 - Display the result in real time
 
-3. Run on a Single Frame
+### 3. Run on a Single Frame
    
 ```bash python webcam_gaze_picture.py ```
 
