@@ -24,7 +24,14 @@ The final model was trained on the **Columbia Gaze Dataset**, with performance i
 
 ## 🏗️ Project Architecture
 
-<pre> ```text 📂 Gaze Detection Repository ├── webcam_gaze1.py # Run real-time webcam gaze detection ├── webcam_gaze_picture.py # Run gaze detection on a single captured frame ├── capture_full.jpg # Original captured frame from webcam ├── capture_eyes.jpg # Cropped version of eyes (Mediapipe) ├── capture_eyes_pred.jpg # Image showing gaze prediction output ├── Gaze Detection.pdf # Project presentation (overview, methodology, results) ``` </pre>
+### 📂 Gaze Detection Repository Structure
+
+- `webcam_gaze1.py` – Run real-time webcam gaze detection  
+- `webcam_gaze_picture.py` – Run gaze detection on a single captured frame  
+- `capture_full.jpg` – Original captured frame from webcam  
+- `capture_eyes.jpg` – Cropped version of eyes (Mediapipe)  
+- `capture_eyes_pred.jpg` – Image showing gaze prediction output  
+- `Gaze Detection.pdf` – Project presentation (overview, methodology, results)
 
 
 ---
