@@ -1,10 +1,10 @@
 # Computer-Vision-Determining-Where-Eyes-Look
 
-# 👁️ Gaze Detection
+# Gaze Detection
 
 A computer vision project that detects whether a person is looking directly at the camera or not, using deep learning and real-time video input.
 
-## 📌 Overview
+## Overview
 
 This project implements **binary gaze classification** — identifying if a person is **looking at the camera** or **not**. It uses a CNN model refined with **MobileNet** and **Mediapipe eye detection** to improve accuracy and reduce background noise.
 
@@ -14,7 +14,7 @@ The final model was trained on the **Columbia Gaze Dataset**, with performance i
 - Regularization techniques (dropout, L2, noise)
 - Real-time webcam prediction
 
-## 📊 Dataset
+## Dataset
 
 - **Source**: Columbia Gaze Dataset
 - **Size**: 5,880 headshot photos
@@ -22,7 +22,7 @@ The final model was trained on the **Columbia Gaze Dataset**, with performance i
 
 ---
 
-## 🏗️ Project Architecture
+## Project Architecture
 
 ### 📂 Gaze Detection Repository Structure
 
