@@ -22,6 +22,9 @@ The final model was trained on the **Columbia Gaze Dataset**, with performance i
 
 ---
 
+Medium Article: https://medium.com/@aryan16/determining-where-eyes-look-using-cnns-to-detect-gazes-04d4c56b18db
+
+
 ## Project Architecture
 
 ### 📂 Gaze Detection Repository Structure
